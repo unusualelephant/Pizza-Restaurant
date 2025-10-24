@@ -7,9 +7,30 @@ html {
     background-color:rgb(248, 238, 203);
     font-family:Arial, Helvetica, sans-serif; 
     line-height: 1.5em;
+    /*margin: 0 15%;*/
 }
 .logo{
     float: left;
     width:200px;
+}
+.name{
+    font-size: 100px;
+    text-align: center;
+    padding-top: 70px;
+    margin-bottom: 20px;
+}
+
+a{
+    text-decoration: none;
+    color: #f3b02e;
+}
+.left{
+    float:left
+}
+.right{
+    float:right;
+}
+.clear{
+    clear:both
 }
 /*#f3b02e yellow #e5771e orange #75c8ae blue*/
