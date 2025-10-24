@@ -8,3 +8,8 @@ html {
     font-family:Arial, Helvetica, sans-serif; 
     line-height: 1.5em;
 }
+.logo{
+    float: left;
+    width:200px;
+}
+/*#f3b02e yellow #e5771e orange #75c8ae blue*/
