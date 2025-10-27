@@ -8,10 +8,13 @@
     src: url(../adlery-pro.ttf);
 }
 html {
-    background-color:rgb(248, 238, 203);
+    background-color:#e2cd9a;
     font-family:Georgia, 'Times New Roman', Times, serif; 
     line-height: 1.5em;
     margin: 0 15%;
+}
+body{
+    background-color:#f6eecd;
 }
 .logo{
     float: left;
@@ -52,5 +55,8 @@ nav{
 }
 hr{
     border: #39200b solid 1px;
+}
+footer > a{
+    color:#39200b;
 }
 /*#f3b02e yellow #e5771e orange #75c8ae blue #39200b brown #f6eecd cream*/
