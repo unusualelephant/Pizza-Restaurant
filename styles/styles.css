@@ -2,6 +2,7 @@
     margin:0;
     padding:0;
     text-align:center;
+   
 }
 @font-face {
     font-family:'Adlery Pro';
@@ -12,6 +13,7 @@ html {
     font-family:Georgia, 'Times New Roman', Times, serif; 
     line-height: 1.5em;
     margin: 0 15%;
+    
 }
 body{
     background-color:#f6eecd;
@@ -23,12 +25,11 @@ body{
 }
 .name{
     font-size: 100px;
-    position: relative;
+    position:relative;
     top: 100px;
     right:100px;
     font-family: Adlery Pro, Arial, Helvetica, sans-serif;
 }
-
 a{
     text-decoration: none;
     color: #f6eecd;
@@ -45,7 +46,6 @@ a:hover{
 .clear{
     clear:both
 }
-
 nav{
     position: sticky;
     top: 0;
@@ -59,4 +59,18 @@ hr{
 footer > a{
     color:#39200b;
 }
+    .alone {
+            float:justify; 
+            height:200px;
+            border: 4px double #e5771e; 
+            border-radius:15px;
+            padding:2px;
+            margin:10px;
+         }
+        .silly {
+            margin-left:35%;
+            margin-right:35%; 
+        }
 /*#f3b02e yellow #e5771e orange #75c8ae blue #39200b brown #f6eecd cream*/
+
+/*Callie Davis & Penelope Schrader*/
